@@ -23,6 +23,7 @@ The main folder FPA contains files of multiple types. It contains a folder of sa
  *	Language Used: PHP Version-5.2.10
  *	Text Editor: Editplus Version 3.11
  * 	Platform used: phpMyAdmin Version- 3.2.0.1
+
 ###How to run
 
  * Go to the **phpmyadmin** and import the sql file provided in the **FPA_init** folder. 
@@ -32,8 +33,7 @@ The main folder FPA contains files of multiple types. It contains a folder of sa
  
 ###References 
 
-	1> www.softwaremetrics.com/fpafund.htm
-	2> Software Estimation: Demystifying the Black Art (Developer Best Practices), Publisher: Microsoft Press; 1 edition (March 1, 2006), ISBN-10: 0735605351
-		ISBN-13: 978-0735605350
-	3> Software Engineering by K.K. Aggarwal, Yogesh Singh, Publisher: New Age International Pvt Ltd Publishers; 2nd edition edition (December 1, 2006), 
-		ISBN-10: 8122416381 ISBN-13: 978-8122416381 
+1> www.softwaremetrics.com/fpafund.htm
+2> Software Estimation: Demystifying the Black Art (Developer Best Practices), Publisher: Microsoft Press; 1 edition (March 1, 2006), ISBN-10: 0735605351 ISBN-13: 978-0735605350
+3> Software Engineering by K.K. Aggarwal, Yogesh Singh, Publisher: New Age International Pvt Ltd Publishers; 2nd edition edition (December 1, 2006), 
+ISBN-10: 8122416381 ISBN-13: 978-8122416381 
